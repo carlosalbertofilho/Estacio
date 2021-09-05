@@ -1,6 +1,7 @@
 /*
  * Primeiro programa
  */
+
 #include <stdio.h>
 
 int main()
