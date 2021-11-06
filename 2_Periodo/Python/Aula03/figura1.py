@@ -9,4 +9,3 @@ else:
     print('A vacinação só ocorrerá daqui a 3 meses.')
     print('Informe-se novamente neste prazo.')
 print('Cuide da saúde sempre. Até a próxima.')
-print('Teste')
