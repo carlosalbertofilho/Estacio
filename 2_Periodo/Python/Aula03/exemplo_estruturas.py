@@ -9,3 +9,6 @@ for numero in range(1, 11):
         print(f'{numero} é inpar')
         soma_impares += numero
         cont_impares += 1
+
+print(f'Média dos Pares {soma_pares/cont_pares}')
+print(f'Média dos Impares {soma_impares/cont_impares}')
